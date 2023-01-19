@@ -1,4 +1,4 @@
-#Pawan_Singh
+#Pawan_Singh_a
 from random import randint
 t = ["Rock", "Paper", "Scissors"]
 computer = t[randint(0,2)]
